@@ -1,6 +1,6 @@
 # React - The Complete Guide 2025 (incl. Next.js, Redux)
 
-##Overview
+## Overview
 This repository contains practice projects from the course.
 
 ## Technologies Used 
